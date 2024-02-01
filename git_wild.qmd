@@ -40,12 +40,16 @@ diamonds_df <- diamonds %>%
 ## STEP 6: Uh oh, merge conflicts!
 
 ```{r break-it-1}
+
 ### Both partners - delete this comment, then write some code here
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset (or anything you like, really)
 
-###hi hello
-ggplot(diamonds_df,aes(
+### I can't wait for craft night
+diamonds %>% 
+  group_by(cut, color) %>% 
+  summarize()
+
 ```
 
 ## STEP 10: And even more merge conflicts!
