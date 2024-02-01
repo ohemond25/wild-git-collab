@@ -55,6 +55,5 @@ diamonds %>%
 ## STEP 10: And even more merge conflicts!
 
 ```{r break-it-2}
-### Data is cool
-### Don't tell Natalie, but I think she's cool (but not as cool as data)
+#secret messages - nice
 ```
